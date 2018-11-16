@@ -1,0 +1,1 @@
+.slice cheat tables for Bit-Slicer for MacOS.
